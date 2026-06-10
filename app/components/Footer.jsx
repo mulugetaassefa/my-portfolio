@@ -23,7 +23,7 @@ const Footer = () => {
         mt-4 sm:mt-0'>
           <a href="https://github.com/mulugetaassefa" target='_blank' rel='noreferrer'>GitHub</a>
           <a href="https://www.linkedin.com/in/assefayheys" target='_blank' rel='noreferrer'>LinkedIn</a>
-          <a href="https://t.me/Addis1227" target='_blank' rel='noreferrer'>Telegram @Addis1227</a>
+          <a href="https://t.me/addis1227" target='_blank' rel='noreferrer'>Telegram @addis1227</a>
           <a href="tel:+251924970213">Phone +251924970213</a>
         </ul>
        </div>
