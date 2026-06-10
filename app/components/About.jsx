@@ -17,7 +17,7 @@ const About = () => {
         <div className='flex-1'>
                 <p className='mb-10 max-w-2xl font-Ovo'>
                   I am an experienced fullstack developer with over 2 years professional expertise in the fileld and I also 
-                  experience in Cloud computing specially in Huawei cloud stack.
+                  experience in Cloud computing.
 
                 </p>
                 <ul className='grid grid-cols-l sm:grid-cols-3 gap-6
