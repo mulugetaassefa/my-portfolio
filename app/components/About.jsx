@@ -16,7 +16,7 @@ const About = () => {
         </div>
         <div className='flex-1'>
                 <p className='mb-10 max-w-2xl font-Ovo'>
-                 I am a Full-Stack Software Engineer with over 2 years of professional experience building web applications 
+                 I am a Full-Stack Software Engineer with over 2 years of professional experience building web applications, mobile applications
                  and scalable systems. I also have hands-on experience in cloud computing, 
                  DevOps, and AI-powered solutions.
 
