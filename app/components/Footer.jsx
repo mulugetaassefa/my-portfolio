@@ -21,10 +21,10 @@ const Footer = () => {
         <p>@2025 Mulugeta Assefa. All rights reserved.</p>
         <ul className='flex items-center gap-10 justify-center
         mt-4 sm:mt-0'>
-          <a href="https://github.com/mulugetaassefa" target='_blank' >GitHub</a>
-          <a href="https://www.linkedin.com/in/assefayheys" target='_blank' >LinkedIn</a>
-          <li href="" target='_blank' >Telegram @Addis1227</li>
-          <li href="" target='_blank' >Phone +251924970213</li>
+          <a href="https://github.com/mulugetaassefa" target='_blank' rel='noreferrer'>GitHub</a>
+          <a href="https://www.linkedin.com/in/assefayheys" target='_blank' rel='noreferrer'>LinkedIn</a>
+          <a href="https://t.me/Addis1227" target='_blank' rel='noreferrer'>Telegram @Addis1227</a>
+          <a href="tel:+251924970213">Phone +251924970213</a>
         </ul>
        </div>
     </div>
