@@ -12,7 +12,7 @@ const Header = () => {
           FullStack Developer & Cloud Engineer.
       </h1>
       <p className='max-w-2xl mx-auto font-Ovo'>
-        I am a fullstack developer from Addis Ababa, Ethiopia with 2 years of experience in developement and experienced in  Huawei cloud stack.
+      I am a Full-Stack Software Engineer with over 2 years of professional experience building web applications and scalable systems. I also have hands-on experience in cloud computing, DevOps, and AI-powered solutions.
       </p>
       <div className='flex flex-col sm:flex-row items-center gap-4 mt-4'>
         <a href="#contact"
